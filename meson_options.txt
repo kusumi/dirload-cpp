@@ -1,0 +1,2 @@
+option('stdthread', type : 'boolean', value : false, description : 'Use std::thread',)
+option('cppunit', type : 'boolean', value : false, description : 'Use cppunit',)
